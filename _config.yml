@@ -1,10 +1,10 @@
 # Site settings
 title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
+email:       bradley.stachurski@gmail.com
+author:      Brad Stachurski
 description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
-baseurl:     ""
-url:         "http://pixyll.com"
+baseurl:     "/Jekyll_Sandbox"
+url:         "http://bradleystachurski.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
